@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kamuku keyboard</string>
+    <string name="checkbox_enabled">On</string>
+    <string name="checkbox_default">Selected</string>
+    <string name="kamuku_ime">Kamuku keyboard</string>
+    <string name="subtype_png">Kamuku</string>
+    <string name="background_icon">Background icon</string>
+    <string name="instruction">Tick 2 boxes</string>
+</resources>
